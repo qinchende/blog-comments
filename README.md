@@ -1,2 +1,3 @@
 # blog-comments
-My blog chende.ren comments store
+
+My blog chende.ren(www.chende.ren) comments store
